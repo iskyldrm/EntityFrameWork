@@ -106,6 +106,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="iliskilikayitlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iliskilikayitlar.Designer.cs">
+      <DependentUpon>iliskilikayitlar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Invoices.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -209,6 +215,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iliskilikayitlar.resx">
+      <DependentUpon>iliskilikayitlar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

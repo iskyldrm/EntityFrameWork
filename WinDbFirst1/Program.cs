@@ -16,7 +16,7 @@ namespace WinDbFirst1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new EFSorgular());
+            Application.Run(new iliskilikayitlar());
         }
     }
 }
