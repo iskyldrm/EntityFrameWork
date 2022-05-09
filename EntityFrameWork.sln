@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDbFirst1", "WinDbFirst1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstWin1", "CodeFirstWin1\CodeFirstWin1.csproj", "{61B8359C-A425-4F19-9DAF-DD584D4A6128}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulCodeFisrt", "OkulCodeFisrt\OkulCodeFisrt.csproj", "{08693908-4B56-4FD0-A8FF-9DA742CEE080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemalarCodeFirst", "SinemalarCodeFirst\SinemalarCodeFirst.csproj", "{B0F3DA95-D6F2-476E-A92E-28E175C41C14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{61B8359C-A425-4F19-9DAF-DD584D4A6128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61B8359C-A425-4F19-9DAF-DD584D4A6128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61B8359C-A425-4F19-9DAF-DD584D4A6128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08693908-4B56-4FD0-A8FF-9DA742CEE080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08693908-4B56-4FD0-A8FF-9DA742CEE080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08693908-4B56-4FD0-A8FF-9DA742CEE080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08693908-4B56-4FD0-A8FF-9DA742CEE080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F3DA95-D6F2-476E-A92E-28E175C41C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F3DA95-D6F2-476E-A92E-28E175C41C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F3DA95-D6F2-476E-A92E-28E175C41C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F3DA95-D6F2-476E-A92E-28E175C41C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
