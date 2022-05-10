@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulCodeFisrt", "OkulCodeFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemalarCodeFirst", "SinemalarCodeFirst\SinemalarCodeFirst.csproj", "{B0F3DA95-D6F2-476E-A92E-28E175C41C14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindCoreEfDbFirst", "NorthwindCoreEfDbFirst\NorthwindCoreEfDbFirst.csproj", "{65D3CB67-983C-4DB2-AAD6-38143B72DF55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B0F3DA95-D6F2-476E-A92E-28E175C41C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F3DA95-D6F2-476E-A92E-28E175C41C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F3DA95-D6F2-476E-A92E-28E175C41C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D3CB67-983C-4DB2-AAD6-38143B72DF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D3CB67-983C-4DB2-AAD6-38143B72DF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D3CB67-983C-4DB2-AAD6-38143B72DF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D3CB67-983C-4DB2-AAD6-38143B72DF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

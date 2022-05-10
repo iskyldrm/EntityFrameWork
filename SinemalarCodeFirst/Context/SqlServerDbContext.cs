@@ -10,6 +10,7 @@ namespace SinemalarCodeFirst.Context
 {
     class SqlServerDbContext:DbContext
     {
+        public DbSet<Gosterim> Gosterim { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"server=(localdb)\mssqllocaldb;Database=SinemalarCodeFirst;trusted_Connection=true");
@@ -19,5 +20,7 @@ namespace SinemalarCodeFirst.Context
         {
             modelBuilder.Entity<Gosterim>().HasKey(x => new { x.SalonId, x.HaftaId, x.SeansId });
         }
+
+        
     }
 }
